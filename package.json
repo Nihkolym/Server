@@ -17,6 +17,7 @@
     "express": "^4.16.3",
     "mysql": "^2.16.0",
     "mysql2": "^1.6.1",
+    "parse-json": "^4.0.0",
     "sequelize": "^4.39.0",
     "sequelize-cli": "^4.1.1"
   },
