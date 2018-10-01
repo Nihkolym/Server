@@ -48,3 +48,63 @@
 2018-10-01T13:11:05.184Z info Connection has been established successfully.
 2018-10-01T13:11:05.295Z info Server is listening on port 8080
 2018-10-01T13:11:06.246Z info User with id: undefined  was added
+2018-10-01T13:11:51.540Z info Connection has been established successfully.
+2018-10-01T13:11:51.656Z info Server is listening on port 8080
+2018-10-01T13:11:52.957Z info User with id: 148  was added
+2018-10-01T13:11:56.910Z info User with id: 148  was deleted
+2018-10-01T13:11:59.093Z info User with id: 149  was added
+2018-10-01T13:12:00.373Z info User with id: 149
+2018-10-01T13:12:04.937Z info User with id: 149  was updated
+2018-10-01T13:13:23.994Z info User with id: 141
+2018-10-01T13:13:40.303Z info User with id: 141  was updated
+2018-10-01T13:14:56.345Z info User with id: 141  was deleted
+2018-10-01T13:14:57.213Z info User with id: 146
+2018-10-01T13:15:03.272Z info User with id: 146  was updated
+2018-10-01T13:16:36.573Z info User with id: 147
+2018-10-01T13:16:48.611Z info User with id: 146
+2018-10-01T13:22:31.538Z info User with id: 146
+2018-10-01T13:23:26.100Z info User with id: 146
+2018-10-01T13:31:35.356Z info User with id: 147
+2018-10-01T13:31:42.125Z info User with id: 146
+2018-10-01T13:32:09.743Z info User with id: 146
+2018-10-01T13:41:45.896Z info User with id: 146
+2018-10-01T13:41:55.971Z info User with id: 146
+2018-10-01T14:08:49.655Z info User with id: 146
+2018-10-01T14:08:52.865Z info User with id: 146  was updated
+2018-10-01T14:08:57.316Z info User with id: 150  was added
+2018-10-01T14:08:58.166Z info User with id: 151  was added
+2018-10-01T14:08:58.341Z info User with id: 152  was added
+2018-10-01T14:08:58.508Z info User with id: 153  was added
+2018-10-01T14:08:58.675Z info User with id: 154  was added
+2018-10-01T14:08:58.859Z info User with id: 155  was added
+2018-10-01T14:09:01.554Z info User with id: 155  was deleted
+2018-10-01T14:09:01.858Z info User with id: 154  was deleted
+2018-10-01T14:09:02.036Z info User with id: 153  was deleted
+2018-10-01T14:09:02.391Z info User with id: 152  was deleted
+2018-10-01T14:09:02.649Z info User with id: 151  was deleted
+2018-10-01T14:09:02.958Z info User with id: 150  was deleted
+2018-10-01T14:09:03.441Z info User with id: 149  was deleted
+2018-10-01T14:13:23.404Z info User with id: 146
+2018-10-01T14:13:25.584Z info User with id: 146  was updated
+2018-10-01T14:13:27.247Z info User with id: 146
+2018-10-01T14:13:54.405Z info User with id: 146  was updated
+2018-10-01T14:14:02.751Z info User with id: 146
+2018-10-01T14:14:05.687Z info User with id: 146  was updated
+2018-10-01T14:14:08.371Z info User with id: 146
+2018-10-01T14:14:09.162Z info User with id: 146  was updated
+2018-10-01T14:14:26.431Z info User with id: 146
+2018-10-01T14:14:30.658Z info User with id: 146
+2018-10-01T14:21:58.538Z info User with id: 147
+2018-10-01T14:22:04.500Z info User with id: 147  was updated
+2018-10-01T14:22:38.079Z info User with id: 146
+2018-10-01T14:22:39.751Z info User with id: 146  was updated
+2018-10-01T14:22:40.597Z info User with id: 146
+2018-10-01T14:22:41.119Z info User with id: 146  was updated
+2018-10-01T14:22:42.130Z info User with id: 146  was deleted
+2018-10-01T14:22:49.161Z info User with id: 156  was added
+2018-10-01T14:22:50.510Z info User with id: 157  was added
+2018-10-01T14:29:51.494Z info Connection has been established successfully.
+2018-10-01T14:29:51.594Z info Server is listening on port 8080
+2018-10-01T14:29:57.068Z info User with id: 158  was added
+2018-10-01T14:30:08.018Z info User with id: 156  was deleted
+2018-10-01T14:30:33.240Z info User with id: 159  was added

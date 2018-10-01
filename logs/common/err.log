@@ -60,3 +60,6 @@ Error: listen EADDRINUSE :::8080
 2018-10-01T12:52:26.749Z error child "lastname" fails because ["lastname" is required]
 2018-10-01T13:02:49.466Z error child "lastname" fails because ["lastname" is required]
 2018-10-01T13:03:36.114Z error child "lastname" fails because ["lastname" is required]
+2018-10-01T14:13:16.007Z error User with id: 420 not found
+2018-10-01T14:23:33.350Z error There is no such user with id: 157 in database
+2018-10-01T14:30:20.479Z error There is no such user with id: 158 in database

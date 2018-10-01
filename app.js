@@ -3,6 +3,7 @@ const DBService = require("./lib/db/services/db-service")
 const bodyParser = require("body-parser");
 const http = require('http');
 const winston = require('winston');
+const morgan = require('morgan');
 
 const port = 8080;
 const app = express();
@@ -17,6 +18,7 @@ app.use((req, res, next) => {
     next();
 });
 
+app.use(morgan('dev'));
 app.use(bodyParser.urlencoded({extended:true}));
 app.use(bodyParser.json());
 
