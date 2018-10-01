@@ -1,0 +1,62 @@
+2018-10-01T12:24:34.604Z error There is no such user with id: 121 in database
+2018-10-01T12:26:05.377Z error There is no such user with id: 121 in database
+2018-10-01T12:26:33.591Z error There is no such user with id: 137 in database
+2018-10-01T12:35:01.442Z error User with id: 137 not found
+2018-10-01T12:45:09.367Z error uncaughtException: listen EADDRINUSE :::8080
+Error: listen EADDRINUSE :::8080
+    at Server.setupListenHandle [as _listen2] (net.js:1286:14)
+    at listenInCluster (net.js:1334:12)
+    at Server.listen (net.js:1421:7)
+    at initApp (C:\Workbench\Server\app.js:39:16)
+2018-10-01T12:46:04.447Z error uncaughtException: listen EADDRINUSE :::8080
+Error: listen EADDRINUSE :::8080
+    at Server.setupListenHandle [as _listen2] (net.js:1286:14)
+    at listenInCluster (net.js:1334:12)
+    at Server.listen (net.js:1421:7)
+    at initApp (C:\Workbench\Server\app.js:39:16)
+2018-10-01T12:46:48.857Z error uncaughtException: listen EADDRINUSE :::8080
+Error: listen EADDRINUSE :::8080
+    at Server.setupListenHandle [as _listen2] (net.js:1286:14)
+    at listenInCluster (net.js:1334:12)
+    at Server.listen (net.js:1421:7)
+    at initApp (C:\Workbench\Server\app.js:39:16)
+2018-10-01T12:46:58.385Z error uncaughtException: listen EADDRINUSE :::8080
+Error: listen EADDRINUSE :::8080
+    at Server.setupListenHandle [as _listen2] (net.js:1286:14)
+    at listenInCluster (net.js:1334:12)
+    at Server.listen (net.js:1421:7)
+    at initApp (C:\Workbench\Server\app.js:39:16)
+2018-10-01T12:47:19.866Z error uncaughtException: listen EADDRINUSE :::8080
+Error: listen EADDRINUSE :::8080
+    at Server.setupListenHandle [as _listen2] (net.js:1286:14)
+    at listenInCluster (net.js:1334:12)
+    at Server.listen (net.js:1421:7)
+    at initApp (C:\Workbench\Server\app.js:39:16)
+2018-10-01T12:48:19.497Z error uncaughtException: listen EADDRINUSE :::8080
+Error: listen EADDRINUSE :::8080
+    at Server.setupListenHandle [as _listen2] (net.js:1286:14)
+    at listenInCluster (net.js:1334:12)
+    at Server.listen (net.js:1421:7)
+    at initApp (C:\Workbench\Server\app.js:39:16)
+2018-10-01T12:48:59.852Z error uncaughtException: listen EADDRINUSE :::8080
+Error: listen EADDRINUSE :::8080
+    at Server.setupListenHandle [as _listen2] (net.js:1286:14)
+    at listenInCluster (net.js:1334:12)
+    at Server.listen (net.js:1421:7)
+    at initApp (C:\Workbench\Server\app.js:39:16)
+2018-10-01T12:49:11.753Z error uncaughtException: listen EADDRINUSE :::8080
+Error: listen EADDRINUSE :::8080
+    at Server.setupListenHandle [as _listen2] (net.js:1286:14)
+    at listenInCluster (net.js:1334:12)
+    at Server.listen (net.js:1421:7)
+    at initApp (C:\Workbench\Server\app.js:39:16)
+2018-10-01T12:49:25.051Z error uncaughtException: listen EADDRINUSE :::8080
+Error: listen EADDRINUSE :::8080
+    at Server.setupListenHandle [as _listen2] (net.js:1286:14)
+    at listenInCluster (net.js:1334:12)
+    at Server.listen (net.js:1421:7)
+    at initApp (C:\Workbench\Server\app.js:39:16)
+2018-10-01T12:52:25.027Z error child "lastname" fails because ["lastname" is required]
+2018-10-01T12:52:26.749Z error child "lastname" fails because ["lastname" is required]
+2018-10-01T13:02:49.466Z error child "lastname" fails because ["lastname" is required]
+2018-10-01T13:03:36.114Z error child "lastname" fails because ["lastname" is required]

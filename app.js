@@ -1,10 +1,13 @@
 const express = require("express");
 const DBService = require("./lib/db/services/db-service")
 const bodyParser = require("body-parser");
+const http = require('http');
+const winston = require('winston');
 
 const port = 8080;
 const app = express();
 
+const loggerService = require("./lib/tools/logger-service");
 const userRoute = require("./lib/user/routes/user-route")
 
 app.use((req, res, next) => {
@@ -24,15 +27,22 @@ app.use(function(error, req, res, next){
     next();
 });   
 
+loggerService.initLoggers();
+loggerService.initGlobalLoggers();
+
 const initApp = async () => {
     try {
         await DBService.initDataBase();
         
-        app.listen(port);
+        var server = http.createServer(app);
+        
+        server.listen(port, () => {
+            successLog.info(`Server is listening on port ${port}`);
+        });
     }
 
     catch(err) {
-        console.log(err);
+        errorLog.error(err);
     }
 }
 
