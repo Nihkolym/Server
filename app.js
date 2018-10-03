@@ -34,7 +34,7 @@ loggerService.initGlobalLoggers();
 
 const initApp = async () => {
     try {
-        await DBService.initDataBase();
+        DBService.initDataBase();
         
         var server = http.createServer(app);
         
