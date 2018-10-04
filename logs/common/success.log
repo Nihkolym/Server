@@ -10797,3 +10797,154 @@
 2018-10-03T17:12:07.779Z info User with id: 199  was deleted
 2018-10-03T17:12:08.587Z info User with id: 203
 2018-10-03T17:12:13.314Z info User with id: 203  was updated
+2018-10-04T08:15:42.517Z info Server is listening on port 8080
+2018-10-04T08:15:42.590Z info Connection has been established successfully.
+2018-10-04T08:16:35.135Z info User with id: 203  was deleted
+2018-10-04T08:16:36.591Z info User with id: 205  was deleted
+2018-10-04T08:16:44.474Z info User with id: 210  was added
+2018-10-04T08:16:47.354Z info User with id: 210
+2018-10-04T08:16:52.443Z info User with id: 210  was updated
+2018-10-04T08:16:58.708Z info User with id: 206  was deleted
+2018-10-04T08:17:43.726Z info User with id: 204
+2018-10-04T08:17:46.290Z info User with id: 204  was updated
+2018-10-04T08:17:48.424Z info User with id: 204  was deleted
+2018-10-04T08:17:49.716Z info User with id: 207  was deleted
+2018-10-04T08:18:04.312Z info User with id: 211  was added
+2018-10-04T08:18:04.882Z info User with id: 212  was added
+2018-10-04T08:18:05.199Z info User with id: 213  was added
+2018-10-04T08:18:05.720Z info User with id: 214  was added
+2018-10-04T08:18:05.924Z info User with id: 215  was added
+2018-10-04T08:18:06.112Z info User with id: 216  was added
+2018-10-04T10:14:02.566Z info User with id: 217  was added
+2018-10-04T10:20:04.308Z info User with id: 208
+2018-10-04T10:28:24.379Z info User with id: 208
+2018-10-04T10:30:23.217Z info User with id: 208
+2018-10-04T10:30:56.333Z info User with id: 208
+2018-10-04T10:34:25.338Z info User with id: 208
+2018-10-04T10:38:19.364Z info User with id: 208
+2018-10-04T10:41:19.655Z info User with id: 208
+2018-10-04T10:43:47.323Z info User with id: 208
+2018-10-04T10:45:23.306Z info User with id: 208
+2018-10-04T10:46:09.183Z info User with id: 208
+2018-10-04T10:46:10.070Z info User with id: 208
+2018-10-04T10:46:41.593Z info User with id: 208
+2018-10-04T10:47:51.064Z info User with id: 208
+2018-10-04T10:48:11.825Z info User with id: 208
+2018-10-04T10:48:21.758Z info User with id: 208
+2018-10-04T10:48:45.724Z info User with id: 208
+2018-10-04T10:49:08.465Z info User with id: 208
+2018-10-04T10:49:09.377Z info User with id: 208
+2018-10-04T10:49:51.605Z info User with id: 208
+2018-10-04T10:50:19.082Z info User with id: 208
+2018-10-04T10:50:19.948Z info User with id: 208
+2018-10-04T10:50:33.038Z info User with id: 208  was updated
+2018-10-04T10:50:34.313Z info User with id: 208
+2018-10-04T10:50:57.757Z info User with id: 208
+2018-10-04T10:51:16.148Z info User with id: 208
+2018-10-04T10:51:21.545Z info User with id: 208
+2018-10-04T10:51:30.556Z info User with id: 208  was updated
+2018-10-04T10:51:32.506Z info User with id: 208
+2018-10-04T10:51:59.179Z info User with id: 208
+2018-10-04T10:53:53.925Z info User with id: 208
+2018-10-04T10:53:54.784Z info User with id: 208
+2018-10-04T10:54:54.871Z info User with id: 208
+2018-10-04T10:55:23.315Z info User with id: 208
+2018-10-04T10:55:44.281Z info User with id: 208  was updated
+2018-10-04T10:55:45.797Z info User with id: 208
+2018-10-04T10:56:21.579Z info User with id: 208
+2018-10-04T10:56:49.445Z info User with id: 208
+2018-10-04T10:57:11.521Z info User with id: 208
+2018-10-04T10:57:12.798Z info User with id: 208
+2018-10-04T10:57:39.055Z info User with id: 208
+2018-10-04T10:57:41.606Z info User with id: 208
+2018-10-04T10:57:57.393Z info User with id: 208
+2018-10-04T10:59:17.439Z info User with id: 208
+2018-10-04T11:00:48.730Z info User with id: 208
+2018-10-04T11:01:03.608Z info User with id: 208
+2018-10-04T11:01:04.789Z info User with id: 208
+2018-10-04T11:01:40.022Z info User with id: 208
+2018-10-04T11:01:40.558Z info User with id: 208
+2018-10-04T11:03:37.657Z info User with id: 208
+2018-10-04T11:03:38.187Z info User with id: 208
+2018-10-04T11:03:41.654Z info User with id: 208
+2018-10-04T11:04:27.325Z info User with id: 208
+2018-10-04T11:05:03.608Z info User with id: 208
+2018-10-04T11:05:18.059Z info User with id: 208
+2018-10-04T11:05:56.861Z info User with id: 208
+2018-10-04T11:06:36.021Z info User with id: 208
+2018-10-04T11:06:36.582Z info User with id: 208
+2018-10-04T11:06:59.722Z info User with id: 208
+2018-10-04T11:07:00.100Z info User with id: 208
+2018-10-04T11:07:44.699Z info User with id: 208
+2018-10-04T11:07:59.774Z info User with id: 208
+2018-10-04T11:08:01.574Z info User with id: 208
+2018-10-04T11:08:23.761Z info User with id: 208
+2018-10-04T11:08:24.113Z info User with id: 208
+2018-10-04T11:08:29.916Z info User with id: 208
+2018-10-04T11:08:56.578Z info User with id: 208  was updated
+2018-10-04T11:32:12.769Z info Server is listening on port 8080
+2018-10-04T11:32:12.840Z info Connection has been established successfully.
+2018-10-04T11:32:29.048Z info User with id: 250
+2018-10-04T11:32:32.271Z info User with id: 218
+2018-10-04T11:32:35.112Z info User with id: 218  was updated
+2018-10-04T11:32:36.649Z info User with id: 218
+2018-10-04T11:32:39.173Z info User with id: 218  was updated
+2018-10-04T12:28:40.390Z info Server is listening on port 8080
+2018-10-04T12:28:40.478Z info Connection has been established successfully.
+2018-10-04T12:30:56.460Z info Server is listening on port 8080
+2018-10-04T12:30:56.539Z info Connection has been established successfully.
+2018-10-04T12:31:35.325Z info Server is listening on port 8080
+2018-10-04T12:31:35.417Z info Connection has been established successfully.
+2018-10-04T12:34:15.367Z info Server is listening on port 8080
+2018-10-04T12:34:15.441Z info Connection has been established successfully.
+2018-10-04T12:34:39.257Z info Server is listening on port 8080
+2018-10-04T12:34:39.327Z info Connection has been established successfully.
+2018-10-04T12:35:03.853Z info User with id: 746  was added
+2018-10-04T12:37:36.215Z info User with id: 747  was added
+2018-10-04T12:40:24.013Z info Server is listening on port 8080
+2018-10-04T12:40:24.090Z info Connection has been established successfully.
+2018-10-04T12:52:45.846Z info Server is listening on port 8080
+2018-10-04T12:52:45.941Z info Connection has been established successfully.
+2018-10-04T12:57:55.850Z info Server is listening on port 8080
+2018-10-04T12:57:55.940Z info Connection has been established successfully.
+2018-10-04T12:58:21.813Z info Server is listening on port 8080
+2018-10-04T12:58:21.908Z info Connection has been established successfully.
+2018-10-04T12:58:33.663Z info Server is listening on port 8080
+2018-10-04T12:58:33.732Z info Connection has been established successfully.
+2018-10-04T12:58:48.138Z info User with id: 748  was added
+2018-10-04T12:59:48.114Z info Server is listening on port 8080
+2018-10-04T12:59:48.173Z info Connection has been established successfully.
+2018-10-04T12:59:52.917Z info User with id: 749  was added
+2018-10-04T13:00:18.241Z info Server is listening on port 8080
+2018-10-04T13:00:18.294Z info Connection has been established successfully.
+2018-10-04T13:00:20.637Z info User with id: 750  was added
+2018-10-04T13:00:50.141Z info Server is listening on port 8080
+2018-10-04T13:00:50.214Z info Connection has been established successfully.
+2018-10-04T13:01:08.502Z info User with id: 751  was added
+2018-10-04T13:01:23.497Z info Server is listening on port 8080
+2018-10-04T13:01:23.567Z info Connection has been established successfully.
+2018-10-04T13:01:25.748Z info User with id: 752  was added
+2018-10-04T13:02:53.084Z info Server is listening on port 8080
+2018-10-04T13:02:53.156Z info Connection has been established successfully.
+2018-10-04T13:03:00.398Z info User with id: 753  was added
+2018-10-04T13:03:12.094Z info Server is listening on port 8080
+2018-10-04T13:03:12.161Z info Connection has been established successfully.
+2018-10-04T13:03:29.490Z info Server is listening on port 8080
+2018-10-04T13:03:29.604Z info Connection has been established successfully.
+2018-10-04T13:03:58.143Z info User with id: 754  was added
+2018-10-04T13:09:12.949Z info Server is listening on port 8080
+2018-10-04T13:09:13.027Z info Connection has been established successfully.
+2018-10-04T13:11:16.691Z info Server is listening on port 8080
+2018-10-04T13:11:16.749Z info Connection has been established successfully.
+2018-10-04T13:12:31.836Z info Server is listening on port 8080
+2018-10-04T13:12:32.015Z info Connection has been established successfully.
+2018-10-04T13:13:41.373Z info Server is listening on port 8080
+2018-10-04T13:13:41.452Z info Connection has been established successfully.
+2018-10-04T13:13:54.583Z info Server is listening on port 8080
+2018-10-04T13:13:54.665Z info Connection has been established successfully.
+2018-10-04T13:14:01.446Z info User with id: 755  was added
+2018-10-04T13:14:45.738Z info User with id: 756  was added
+2018-10-04T13:16:51.018Z info Server is listening on port 8080
+2018-10-04T13:16:51.102Z info Connection has been established successfully.
+2018-10-04T13:19:43.499Z info Server is listening on port 8080
+2018-10-04T13:19:43.577Z info Connection has been established successfully.
