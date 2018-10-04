@@ -10948,3 +10948,78 @@
 2018-10-04T13:16:51.102Z info Connection has been established successfully.
 2018-10-04T13:19:43.499Z info Server is listening on port 8080
 2018-10-04T13:19:43.577Z info Connection has been established successfully.
+2018-10-04T13:20:49.600Z info Server is listening on port 8080
+2018-10-04T13:20:49.685Z info Connection has been established successfully.
+2018-10-04T13:24:05.240Z info User with id: 757  was added
+2018-10-04T13:24:10.619Z info User with id: 758  was added
+2018-10-04T13:24:11.573Z info User with id: 759  was added
+2018-10-04T13:24:12.180Z info User with id: 760  was added
+2018-10-04T13:24:12.764Z info User with id: 761  was added
+2018-10-04T13:24:13.310Z info User with id: 762  was added
+2018-10-04T13:24:13.481Z info User with id: 763  was added
+2018-10-04T13:24:13.660Z info User with id: 764  was added
+2018-10-04T13:24:13.835Z info User with id: 765  was added
+2018-10-04T13:24:14.019Z info User with id: 766  was added
+2018-10-04T13:24:14.190Z info User with id: 767  was added
+2018-10-04T13:24:14.365Z info User with id: 768  was added
+2018-10-04T13:24:14.556Z info User with id: 769  was added
+2018-10-04T13:24:14.731Z info User with id: 770  was added
+2018-10-04T13:24:15.690Z info User with id: 754  was deleted
+2018-10-04T13:24:15.885Z info User with id: 755  was deleted
+2018-10-04T13:24:16.069Z info User with id: 756  was deleted
+2018-10-04T13:24:16.248Z info User with id: 757  was deleted
+2018-10-04T13:24:16.439Z info User with id: 758  was deleted
+2018-10-04T13:24:16.623Z info User with id: 759  was deleted
+2018-10-04T13:24:16.814Z info User with id: 760  was deleted
+2018-10-04T13:24:16.998Z info User with id: 761  was deleted
+2018-10-04T13:24:17.197Z info User with id: 762  was deleted
+2018-10-04T13:24:17.397Z info User with id: 763  was deleted
+2018-10-04T13:24:17.589Z info User with id: 764  was deleted
+2018-10-04T13:24:17.772Z info User with id: 765  was deleted
+2018-10-04T13:24:17.960Z info User with id: 766  was deleted
+2018-10-04T13:24:18.180Z info User with id: 767  was deleted
+2018-10-04T13:24:18.527Z info User with id: 768  was deleted
+2018-10-04T13:24:18.722Z info User with id: 769  was deleted
+2018-10-04T13:24:18.919Z info User with id: 753  was deleted
+2018-10-04T13:24:19.102Z info User with id: 752  was deleted
+2018-10-04T13:24:19.302Z info User with id: 751  was deleted
+2018-10-04T13:25:39.181Z info Server is listening on port 8080
+2018-10-04T13:25:39.252Z info Connection has been established successfully.
+2018-10-04T13:25:46.541Z info Server is listening on port 8080
+2018-10-04T13:25:46.631Z info Connection has been established successfully.
+2018-10-04T13:26:31.166Z info User with id: 771  was added
+2018-10-04T13:26:33.045Z info User with id: 772  was added
+2018-10-04T13:34:57.147Z info Server is listening on port 8080
+2018-10-04T13:34:57.274Z info Connection has been established successfully.
+2018-10-04T13:35:54.056Z info Server is listening on port 8080
+2018-10-04T13:35:54.130Z info Connection has been established successfully.
+2018-10-04T13:36:10.634Z info Server is listening on port 8080
+2018-10-04T13:36:10.705Z info Connection has been established successfully.
+2018-10-04T13:38:13.771Z info Server is listening on port 8080
+2018-10-04T13:38:13.853Z info Connection has been established successfully.
+2018-10-04T13:38:45.463Z info User with id: 744  was deleted
+2018-10-04T13:38:45.971Z info User with id: 745  was deleted
+2018-10-04T13:38:46.985Z info User with id: 746
+2018-10-04T13:38:50.357Z info User with id: 746  was updated
+2018-10-04T13:39:00.363Z info User with id: 746
+2018-10-04T13:39:07.963Z info User with id: 746  was updated
+2018-10-04T13:39:10.179Z info User with id: 746  was deleted
+2018-10-04T13:54:31.793Z info User with id: 773  was added
+2018-10-04T13:54:32.618Z info User with id: 774  was added
+2018-10-04T13:54:33.443Z info User with id: 775  was added
+2018-10-04T13:54:34.727Z info User with id: 776  was added
+2018-10-04T13:54:41.185Z info User with id: 775  was deleted
+2018-10-04T13:54:41.626Z info User with id: 774  was deleted
+2018-10-04T13:54:41.851Z info User with id: 773  was deleted
+2018-10-04T13:54:42.043Z info User with id: 772  was deleted
+2018-10-04T13:54:42.226Z info User with id: 771  was deleted
+2018-10-04T13:54:42.385Z info User with id: 770  was deleted
+2018-10-04T13:54:42.568Z info User with id: 750  was deleted
+2018-10-04T13:54:42.726Z info User with id: 749  was deleted
+2018-10-04T13:54:42.885Z info User with id: 748  was deleted
+2018-10-04T13:54:44.235Z info User with id: 776  was deleted
+2018-10-04T13:54:45.943Z info User with id: 777  was added
+2018-10-04T13:54:46.093Z info User with id: 778  was added
+2018-10-04T13:54:46.285Z info User with id: 779  was added
+2018-10-04T13:54:46.468Z info User with id: 780  was added
+2018-10-04T13:54:46.626Z info User with id: 781  was added
